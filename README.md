@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-- 🎓 I'm a student at Westview High, studying AP Computer Science A
+- 🎓 I'm a student at Westview High, studying AP Computer Science A ☕
 - 🔭 I'm aspiring to major in STEM, related to computing 👨🏻‍💻💻
 - 🛠️ I’m currently working on my Java, C++, Python, and PyTorch skills
 - 🌱 I’m frequently learning about PyTorch, Tensorflow, and OpenCV

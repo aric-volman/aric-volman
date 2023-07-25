@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-- 🎓 I'm a student at Westview High, taking AP Computer Science A
+- 🎓 I'm a student at Westview High, studying AP Computer Science A
 - 🔭 I'm aspiring to major in STEM, related to computing 👨🏻‍💻💻
 - 🛠️ I’m currently working on my Java, C++, Python, and PyTorch skills
 - 🌱 I’m frequently learning about PyTorch, Tensorflow, and OpenCV
@@ -17,15 +17,16 @@
 
 <h2>💻 Projects 🔥</h2>
 <ul>
-<li>Simulated <a href="https://github.com/aric-volman/RamseteExample">FRC RAMSETE Robot Controller</a></li>
-<li> <a href="https://github.com/aric-volman/detecto-example">FRC Cone and Cube detection </a>with Detecto Pytorch-based library</li>
-<li> <a href="https://github.com/aric-volman/grid-render">FRC Game Element Rendering </a>with Blender</li>
-<li> <a href="https://github.com/aric-volman/A-New-Vision-Workshop">Computer Vision Workshop Code </a>using pre-trained neural network</li>
+<li>Simulated <a href="https://github.com/aric-volman/RamseteExample">FRC RAMSETE Robot Controller 🤖</a></li>
+<li> <a href="https://github.com/aric-volman/detecto-example">FRC Cone and Cube detection </a>with Detecto Pytorch-based library 🔎</li>
+<li> <a href="https://github.com/aric-volman/A-New-Vision-Workshop">Computer Vision Workshop Code </a>using pre-trained neural network 🕸️</li>
 <li> <a href="https://github.com/aric-volman/mechanical-babulya">Sudoku Solver </a>written using Qt 🔥</li>
+<li> <a href="https://github.com/aric-volman/zumobots">Codes for </a>educational Sumobot workshops 🌎</li>
+<h3>Miscellaneous</h3>
+<li> <a href="https://github.com/aric-volman/hdrivewheelgen">OpenSCAD script </a>for generating Holonomic Wheels 🛞</li>
 <li> <a href="https://github.com/aric-volman/i2c-maxbotix-frc">Reference implementation </a>of Maxbotix I2C Ultrasonic sensor for FRC</li>
-<li> <a href="https://github.com/aric-volman/zumobots">Codes for </a>educational Sumobot workshops</li>
-<li> <a href="https://github.com/aric-volman/hdrivewheelgen">OpenSCAD script </a>for generating Holonomic Wheels</li>
-<li> FRC Computer Vision <a href="https://github.com/aric-volman/2022-IAP-Turret"> Turret Code</a></li>
+<li> <a href="https://github.com/aric-volman/grid-render">FRC Game Element Rendering </a>with Blender 🦿</li>
+<li> FRC Computer Vision <a href="https://github.com/aric-volman/2022-IAP-Turret"> Turret Code 🦾</a></li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>

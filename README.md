@@ -6,7 +6,7 @@
 - 🔭 I'm aspiring to major in STEM, related to computing 👨🏻‍💻💻
 - 🛠️ I’m currently working on my Java, C++, Python, and PyTorch skills
 - 🌱 I’m frequently learning about PyTorch, Tensorflow, and OpenCV
-- ❤️ I'm always looking for ways to give back to the community through STEM volunteering
+- ❤️ I'm always looking for ways to give back to the community through STEM volunteering 🌎
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: It's Aric, not Eric!
 

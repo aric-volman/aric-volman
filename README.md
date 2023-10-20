@@ -17,6 +17,7 @@
 
 <h2>💻 Projects 🔥</h2>
 <ul>
+<li>Simulated <a href="https://github.com/aric-volman/SwerveDevelopment">FRC Swerve Robot 🤖</a></li>
 <li>Simulated <a href="https://github.com/aric-volman/RamseteExample">FRC RAMSETE Robot Controller 🤖</a></li>
 <li> <a href="https://github.com/aric-volman/detecto-example">FRC Cone and Cube detection </a>with Detecto Pytorch-based library 🔎</li>
 <li> <a href="https://github.com/aric-volman/A-New-Vision-Workshop">Computer Vision Workshop Code </a>using pre-trained neural network 🕸️</li>

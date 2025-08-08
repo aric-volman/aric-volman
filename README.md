@@ -2,11 +2,9 @@
 
 ## Hi there 👋
 
-- 🎓 I'm a student at Westview High, studying AP Computer Science A ☕
-- 🔭 I'm aspiring to major in STEM, related to computing 👨🏻‍💻💻
-- 🛠️ I’m currently working on my Java, C++, Python, and PyTorch skills
-- 🌱 I’m frequently learning about PyTorch, Tensorflow, and OpenCV
-- ❤️ I'm always looking for ways to give back to the community through STEM volunteering 🌎
+- 🎓 I'm a student at UCSD, majoring in Math-CS
+- 🌱 I’m frequently learning about mathematics and the world around me
+- ❤️ I'm always looking for ways to give back to the community through volunteering and teaching
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: It's Aric, not Eric!
 
@@ -26,8 +24,6 @@
 <h3>Miscellaneous</h3>
 <li> <a href="https://github.com/aric-volman/hdrivewheelgen">OpenSCAD script </a>for generating Holonomic Wheels 🛞</li>
 <li> <a href="https://github.com/aric-volman/i2c-maxbotix-frc">Reference implementation </a>of Maxbotix I2C Ultrasonic sensor for FRC</li>
-<li> <a href="https://github.com/aric-volman/grid-render">FRC Game Element Rendering </a>with Blender 🦿</li>
-<li> FRC Computer Vision <a href="https://github.com/aric-volman/2022-IAP-Turret"> Turret Code 🦾</a></li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>

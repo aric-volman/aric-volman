@@ -4,7 +4,7 @@
 
 - 🎓 I'm a student at UCSD, majoring in Math-CS
 - 🌱 I’m frequently learning about mathematics and the world around me
-- ❤️ I'm always looking for ways to give back to the community through volunteering and teaching
+- ❤️ I'm always looking for ways to give back to the community through teaching
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: It's Aric, not Eric!
 
